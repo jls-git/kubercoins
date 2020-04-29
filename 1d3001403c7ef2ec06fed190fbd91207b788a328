@@ -1,0 +1,1 @@
+{"jobID":"a1205402-5e88-7239-4c81-30113d7e1a76","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"default:deployment/rng":{"add":{"automated":"true"},"remove":{}}}},"result":null}
